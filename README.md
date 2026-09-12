@@ -12,7 +12,7 @@ Given a clinical trial's public Statistical Analysis Plan (SAP) and a dataset:
 6. **Conformance Checking** — execute the refined rules and compute the **Statistical Analysis
    Conformance Indicator (SACI)** per rule (Stage 6).
 
-See `common/pipeline_diagram.svg` for the full architecture diagram (Fig. 1 in the manuscript).
+See `common/pipeline_diagram.svg` for the full architecture diagram. 
 
 ## Important note on the data used
 
