@@ -1,0 +1,14 @@
+{
+  "cutoff_time_days": 25.67,
+  "n_placebo_at_risk_or_event_at_look1": 2065,
+  "placebo_events_at_look1": 93,
+  "observed_placebo_rate_at_look1": 0.045,
+  "upper_99_CL": 0.0557,
+  "assumed_rate_CI": [
+    0.1363,
+    0.1685
+  ],
+  "reestimation_triggered": true,
+  "conformance": "CONFORMANT",
+  "refinement_note": "Step-4 R6 coding used only subjects whose own event/censor time had already elapsed by the interim cutoff, undercounting the placebo risk set and inflating the observed rate to >90%. Corrected in Step 5 to administratively censor the full cohort at the interim cutoff before computing the rate, consistent with the interim-population construction used for rule R4."
+}

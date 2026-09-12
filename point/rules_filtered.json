@@ -1,0 +1,74 @@
+[
+  {
+    "id": "R1",
+    "category": "Primary Efficacy Analysis",
+    "sap_section": "12.1.3",
+    "condition": "the primary composite outcome (ischemic stroke, MI, or ischemic vascular death) is analyzed under the ITT principle",
+    "action": "test equality of survival curves with the two-sided log-rank test at alpha=0.05, and report Cox proportional-hazards HR with 95% CI (Efron method for ties)",
+    "applicable": true,
+    "filter_reason": "Required variables (time-to-event, event indicator, arm) present in extracted table."
+  },
+  {
+    "id": "R2",
+    "category": "Missing Data",
+    "sap_section": "10",
+    "condition": "a subject has missing primary-outcome follow-up data",
+    "action": "the subject must be censored at their last follow-up assessment time, not excluded from the ITT analysis and not imputed as an event",
+    "applicable": true,
+    "filter_reason": "Required variables (time-to-event, event indicator, arm) present in extracted table."
+  },
+  {
+    "id": "R3",
+    "category": "Multiplicity",
+    "sap_section": "9",
+    "condition": "a secondary or tertiary outcome is analyzed",
+    "action": "no correction for multiple testing is applied to secondary/tertiary outcomes; only the primary outcome test controls the overall two-sided alpha=0.05",
+    "applicable": false,
+    "filter_reason": "No secondary/tertiary outcome variable was extracted in this pilot dataset (out of scope for this run)."
+  },
+  {
+    "id": "R4",
+    "category": "Interim Efficacy Monitoring",
+    "sap_section": "12.2",
+    "condition": "an interim analysis is performed at 177, 353 events (or final analysis at 530 events) using the two-sided O'Brien-Fleming boundary",
+    "action": "compare |Z| against the nominal critical value for that look (3.710 / 2.511 / 1.993 respectively); recommend stopping for overwhelming efficacy only if the boundary is exceeded",
+    "applicable": true,
+    "filter_reason": "Required variables (time-to-event, event indicator, arm) present in extracted table."
+  },
+  {
+    "id": "R5",
+    "category": "Interim Futility Monitoring",
+    "sap_section": "12.3",
+    "condition": "an interim analysis is performed and conditional power under the original design is computed",
+    "action": "if conditional power falls below 0.20, the DSMB evaluation for stopping the trial for futility is triggered; otherwise the trial continues",
+    "applicable": true,
+    "filter_reason": "Conditional power computable from interim event data."
+  },
+  {
+    "id": "R6",
+    "category": "Sample Size Re-estimation",
+    "sap_section": "5.2",
+    "condition": "at the first interim analysis (177 events), the one-sided upper 99% confidence limit around the observed placebo event rate does not overlap the assumed-rate 95% CI (13.63%, 16.85%)",
+    "action": "the maximum sample size must be re-estimated based on the observed placebo event rate",
+    "applicable": true,
+    "filter_reason": "Required variables (time-to-event, event indicator, arm) present in extracted table."
+  },
+  {
+    "id": "R7",
+    "category": "Safety Analysis",
+    "sap_section": "13.2",
+    "condition": "cumulative incidences of other serious adverse events are compared between treatment groups at end of study",
+    "action": "use Fisher's exact test at a two-sided alpha level of 0.01",
+    "applicable": true,
+    "filter_reason": "Other-SAE indicator present by treatment arm."
+  },
+  {
+    "id": "R8",
+    "category": "Subgroup Analyses",
+    "sap_section": "12.1.8",
+    "condition": "the primary efficacy outcome is analyzed within a pre-specified subgroup (e.g., index event type, age, sex)",
+    "action": "test the treatment effect within the subgroup at a two-sided alpha level of 0.05",
+    "applicable": true,
+    "filter_reason": "Age subgroup variable present."
+  }
+]

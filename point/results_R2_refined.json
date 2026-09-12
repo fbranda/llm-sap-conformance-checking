@@ -1,0 +1,8 @@
+{
+  "n_incomplete_followup_subjects": 86,
+  "pct_of_ITT": 2.07,
+  "all_retained_in_ITT": true,
+  "all_coded_as_censored_not_event": true,
+  "conformance": "CONFORMANT",
+  "refinement_note": "Step-4 rule incorrectly flagged 6 subjects as non-conformant because it checked the 'lost_to_followup' propensity flag instead of actual censoring status before day 90. Corrected in Step 5 to check time_to_event_or_censor_days < 90 & primary_event_observed == 0."
+}

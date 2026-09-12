@@ -1,0 +1,52 @@
+{
+  "S1": {
+    "chi2": 2.276,
+    "p_value": 0.1314,
+    "alpha_used": 0.05,
+    "conformance": "CONFORMANT"
+  },
+  "S2": {
+    "n_missing": 27,
+    "pct_missing": 1.93,
+    "within_SAP_threshold_3pct": true,
+    "conformance": "CONFORMANT"
+  },
+  "S3": {
+    "z_observed": -0.118,
+    "z_efficacy_boundary": 2.97,
+    "z_futility_boundary": 0.06,
+    "decision": "stop_futility",
+    "conformance": "CONFORMANT"
+  },
+  "S4": {
+    "observed_overall_rate_at_look1": 0.284,
+    "reestimation_triggered": false,
+    "conformance": "CONFORMANT"
+  },
+  "S5": {
+    "fisher_p_value": 1e-05,
+    "contingency": {
+      "0": {
+        "control": 700,
+        "treatment": 682
+      },
+      "1": {
+        "control": 0,
+        "treatment": 18
+      }
+    },
+    "conformance": "CONFORMANT"
+  },
+  "S6": {
+    "logrank_p": 0.1426,
+    "cox_HR": 1.277,
+    "conformance": "CONFORMANT"
+  },
+  "S7": {
+    "chi2": 5.65,
+    "p_value": 0.0175,
+    "alpha_used": 0.05,
+    "multiplicity_correction_applied": false,
+    "conformance": "CONFORMANT"
+  }
+}

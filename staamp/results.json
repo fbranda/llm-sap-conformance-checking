@@ -1,0 +1,43 @@
+{
+  "T1": {
+    "mantel_haenszel_statistic": 4.995,
+    "p_value": 0.0254,
+    "pct_missing_30d": 2.21,
+    "treated_as_descriptive_only": false,
+    "conformance": "CONFORMANT"
+  },
+  "T2": {
+    "cox_HR": 0.68,
+    "cox_p_value": 0.0259,
+    "conformance": "CONFORMANT"
+  },
+  "T3": {
+    "n_missing": 22,
+    "pct_missing": 2.21,
+    "all_retained_in_ITT": true,
+    "conformance": "CONFORMANT"
+  },
+  "T4": {
+    "n_wrong_pack_subjects": 12,
+    "analyzed_by_randomized_arm": true,
+    "conformance": "CONFORMANT"
+  },
+  "T5": {
+    "tbi_not_severe": {
+      "n": 723,
+      "p_value": 0.0205
+    },
+    "tbi_severe": {
+      "n": 271,
+      "p_value": 0.604
+    },
+    "labeled_exploratory_only": true,
+    "conformance": "CONFORMANT"
+  },
+  "T6": {
+    "required_n_per_arm": 497,
+    "simulated_n_per_arm": 497,
+    "meets_requirement": true,
+    "conformance": "CONFORMANT"
+  }
+}

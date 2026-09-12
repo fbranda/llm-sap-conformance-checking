@@ -1,0 +1,87 @@
+{
+  "R1": {
+    "log_rank_p_value": 0.132,
+    "cox_HR": 0.879,
+    "cox_95CI": [
+      0.743,
+      1.04
+    ],
+    "z_signed": 1.506,
+    "conformance": "CONFORMANT"
+  },
+  "R2": {
+    "n_lost_to_followup": 92,
+    "pct_lost": 2.22,
+    "lost_coded_as_event_count": 6,
+    "conformance": "NOT CONFORMANT"
+  },
+  "R4": {
+    "177": {
+      "z_observed": 0.764,
+      "z_critical": 3.71,
+      "boundary_crossed": false,
+      "decision": "continue",
+      "conformance": "CONFORMANT"
+    },
+    "353": {
+      "z_observed": 0.938,
+      "z_critical": 2.511,
+      "boundary_crossed": false,
+      "decision": "continue",
+      "conformance": "CONFORMANT"
+    },
+    "530": {
+      "z_observed": 1.43,
+      "z_critical": 1.993,
+      "boundary_crossed": false,
+      "decision": "continue",
+      "conformance": "CONFORMANT"
+    }
+  },
+  "R5": {
+    "conditional_power_at_look1": 0.784,
+    "futility_threshold": 0.2,
+    "futility_triggered": false,
+    "conformance": "CONFORMANT"
+  },
+  "R6": {
+    "observed_placebo_rate_at_look1": 0.9029,
+    "upper_99_CL": 0.9708,
+    "assumed_rate_CI": [
+      0.1363,
+      0.1685
+    ],
+    "reestimation_triggered": false,
+    "conformance": "CONFORMANT"
+  },
+  "R7": {
+    "contingency_table": {
+      "0": {
+        "clopidogrel": 1977,
+        "placebo": 1963
+      },
+      "1": {
+        "clopidogrel": 108,
+        "placebo": 102
+      }
+    },
+    "fisher_p_value": 0.777,
+    "alpha_used": 0.01,
+    "significant_at_0.01": false,
+    "conformance": "CONFORMANT"
+  },
+  "R8": {
+    "age_lt65": {
+      "n": 2034,
+      "p_value": 0.179,
+      "significant_at_0.05": false
+    },
+    "age_ge65": {
+      "n": 2116,
+      "p_value": 0.4289,
+      "significant_at_0.05": false
+    },
+    "alpha_used": 0.05,
+    "conformance": "CONFORMANT"
+  }
+}

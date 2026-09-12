@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 620" font-family="Arial, Helvetica, sans-serif">
+  <rect width="1400" height="620" fill="#ffffff"/>
+
+  <!-- Review icons row -->
+  <g font-size="15" fill="#333333" font-style="italic">
+    <text x="230" y="40" text-anchor="middle">Biostatistician review</text>
+    <text x="900" y="40" text-anchor="middle">Statistician / code review</text>
+  </g>
+  <line x1="60" y1="55" x2="900" y2="55" stroke="#999999" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Circle numbers + boxes -->
+  <!-- Step 1 -->
+  <circle cx="90" cy="120" r="18" fill="#2E75B6"/>
+  <text x="90" y="126" text-anchor="middle" fill="white" font-size="16" font-weight="bold">1</text>
+  <rect x="40" y="150" width="160" height="150" rx="10" fill="#FDE9D9" stroke="#E8A33D" stroke-width="1.5"/>
+  <text x="120" y="175" text-anchor="middle" font-size="14" font-weight="bold">Variable</text>
+  <text x="120" y="193" text-anchor="middle" font-size="14" font-weight="bold">Extraction</text>
+  <rect x="55" y="203" width="130" height="20" rx="4" fill="#FFF2CC"/>
+  <text x="120" y="217" text-anchor="middle" font-size="12">Gemini 2.5 Flash</text>
+  <text x="120" y="240" text-anchor="middle" font-size="11">Convert clinical data</text>
+  <text x="120" y="255" text-anchor="middle" font-size="11">into structured</text>
+  <text x="120" y="270" text-anchor="middle" font-size="11">variable table</text>
+  <text x="120" y="292" text-anchor="middle" font-size="11" fill="#555">(dataset / CRF)</text>
+
+  <!-- arrow -->
+  <line x1="200" y1="225" x2="238" y2="225" stroke="#2E75B6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 2 -->
+  <circle cx="270" cy="120" r="18" fill="#2E75B6"/>
+  <text x="270" y="126" text-anchor="middle" fill="white" font-size="16" font-weight="bold">2</text>
+  <rect x="220" y="150" width="160" height="150" rx="10" fill="#E2EFDA" stroke="#548235" stroke-width="1.5"/>
+  <text x="300" y="175" text-anchor="middle" font-size="14" font-weight="bold">Analysis Plan</text>
+  <text x="300" y="193" text-anchor="middle" font-size="14" font-weight="bold">Extraction</text>
+  <rect x="235" y="203" width="130" height="20" rx="4" fill="#FFF2CC"/>
+  <text x="300" y="217" text-anchor="middle" font-size="12">NotebookLM</text>
+  <text x="300" y="240" text-anchor="middle" font-size="11">Extract IF-THEN rules</text>
+  <text x="300" y="255" text-anchor="middle" font-size="11">from SAP / statistical</text>
+  <text x="300" y="270" text-anchor="middle" font-size="11">guideline</text>
+  <rect x="255" y="278" width="90" height="16" fill="#ffffff" stroke="#888888"/>
+  <text x="300" y="290" text-anchor="middle" font-size="10">RULES</text>
+
+  <line x1="380" y1="225" x2="418" y2="225" stroke="#2E75B6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 3 -->
+  <circle cx="450" cy="120" r="18" fill="#2E75B6"/>
+  <text x="450" y="126" text-anchor="middle" fill="white" font-size="16" font-weight="bold">3</text>
+  <rect x="400" y="150" width="160" height="150" rx="10" fill="#E2EFDA" stroke="#548235" stroke-width="1.5"/>
+  <text x="480" y="175" text-anchor="middle" font-size="14" font-weight="bold">Rule</text>
+  <text x="480" y="193" text-anchor="middle" font-size="14" font-weight="bold">Filtering</text>
+  <rect x="415" y="203" width="130" height="20" rx="4" fill="#FFF2CC"/>
+  <text x="480" y="217" text-anchor="middle" font-size="12">Gemini 2.5 Flash</text>
+  <text x="480" y="240" text-anchor="middle" font-size="11">Keep only rules</text>
+  <text x="480" y="255" text-anchor="middle" font-size="11">applicable to the</text>
+  <text x="480" y="270" text-anchor="middle" font-size="11">available dataset</text>
+  <g font-size="10">
+    <rect x="415" y="278" width="60" height="15" fill="#E2EFDA" stroke="#548235"/>
+    <text x="445" y="289" text-anchor="middle">APPLIC.</text>
+    <rect x="480" y="278" width="65" height="15" fill="#FBE5E5" stroke="#C00000"/>
+    <text x="512" y="289" text-anchor="middle">N/APPLIC.</text>
+  </g>
+
+  <line x1="560" y1="225" x2="598" y2="225" stroke="#2E75B6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 4 -->
+  <circle cx="630" cy="120" r="18" fill="#2E75B6"/>
+  <text x="630" y="126" text-anchor="middle" fill="white" font-size="16" font-weight="bold">4</text>
+  <rect x="580" y="150" width="160" height="150" rx="10" fill="#DDEBF7" stroke="#2E75B6" stroke-width="1.5"/>
+  <text x="660" y="175" text-anchor="middle" font-size="14" font-weight="bold">Rule Coding</text>
+  <rect x="595" y="203" width="130" height="20" rx="4" fill="#FFF2CC"/>
+  <text x="660" y="217" text-anchor="middle" font-size="12">Gemini 2.5 Flash</text>
+  <text x="660" y="240" text-anchor="middle" font-size="11">Generate executable</text>
+  <text x="660" y="255" text-anchor="middle" font-size="11">Python/R source code</text>
+  <text x="660" y="270" text-anchor="middle" font-size="11">from filtered rules</text>
+  <rect x="625" y="278" width="80" height="16" fill="#ffffff" stroke="#888888"/>
+  <text x="665" y="290" text-anchor="middle" font-size="10">STAT RULES</text>
+
+  <line x1="740" y1="225" x2="778" y2="225" stroke="#2E75B6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 5 -->
+  <circle cx="810" cy="120" r="18" fill="#2E75B6"/>
+  <text x="810" y="126" text-anchor="middle" fill="white" font-size="16" font-weight="bold">5</text>
+  <rect x="760" y="150" width="160" height="150" rx="10" fill="#E8DDF0" stroke="#7030A0" stroke-width="1.5"/>
+  <text x="840" y="175" text-anchor="middle" font-size="14" font-weight="bold">Rule</text>
+  <text x="840" y="193" text-anchor="middle" font-size="14" font-weight="bold">Refinement</text>
+  <rect x="775" y="203" width="130" height="20" rx="4" fill="#FFF2CC"/>
+  <text x="840" y="217" text-anchor="middle" font-size="12">Gemini 3 Pro-Preview</text>
+  <text x="840" y="240" text-anchor="middle" font-size="11">Improve and fix</text>
+  <text x="840" y="255" text-anchor="middle" font-size="11">the statistical code</text>
+  <text x="840" y="270" text-anchor="middle" font-size="11">(edge cases, bugs)</text>
+
+  <line x1="920" y1="225" x2="958" y2="225" stroke="#2E75B6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Step 6 -->
+  <circle cx="990" cy="120" r="18" fill="#2E75B6"/>
+  <text x="990" y="126" text-anchor="middle" fill="white" font-size="16" font-weight="bold">6</text>
+  <rect x="960" y="150" width="220" height="150" rx="10" fill="#D9EAD3" stroke="#38761D" stroke-width="1.5"/>
+  <text x="1070" y="175" text-anchor="middle" font-size="14" font-weight="bold">Conformance Checking</text>
+  <text x="1070" y="198" text-anchor="middle" font-size="11">• Apply refined rules to dataset</text>
+  <text x="1070" y="215" text-anchor="middle" font-size="11">• Compute Statistical Analysis</text>
+  <text x="1070" y="230" text-anchor="middle" font-size="11">  Conformance Indicator (SACI)</text>
+  <text x="1070" y="245" text-anchor="middle" font-size="11">• Generate per-rule statistics</text>
+  <rect x="1000" y="255" width="140" height="70" fill="#ffffff" stroke="#38761D"/>
+  <text x="1070" y="272" text-anchor="middle" font-size="11" fill="#38761D">SACI 87%</text>
+  <rect x="1010" y="278" width="15" height="35" fill="#70AD47"/>
+  <rect x="1032" y="290" width="15" height="23" fill="#70AD47"/>
+  <rect x="1054" y="270" width="15" height="43" fill="#70AD47"/>
+  <rect x="1076" y="295" width="15" height="18" fill="#70AD47"/>
+  <rect x="1098" y="282" width="15" height="31" fill="#70AD47"/>
+  <rect x="1120" y="275" width="15" height="38" fill="#70AD47"/>
+
+  <!-- bottom source box -->
+  <rect x="40" y="400" width="360" height="180" rx="8" fill="#F2F2F2" stroke="#999999"/>
+  <text x="220" y="425" text-anchor="middle" font-size="13" font-weight="bold">Clinical dataset / SAP (e.g. POINT trial)</text>
+  <rect x="60" y="440" width="150" height="120" fill="#ffffff" stroke="#888888"/>
+  <text x="135" y="460" text-anchor="middle" font-size="10">Extracted variables</text>
+  <text x="135" y="475" text-anchor="middle" font-size="9">Z-statistic ......... 3.9</text>
+  <text x="135" y="490" text-anchor="middle" font-size="9">Events .............. 177</text>
+  <text x="135" y="505" text-anchor="middle" font-size="9">Decision ...... continue</text>
+  <text x="135" y="520" text-anchor="middle" font-size="9">Look # .................1</text>
+  <rect x="225" y="440" width="155" height="120" fill="#ffffff" stroke="#888888"/>
+  <text x="302" y="460" text-anchor="middle" font-size="10" font-weight="bold">SAP (excerpt)</text>
+  <text x="302" y="478" text-anchor="middle" font-size="9">Two-sided O'Brien-</text>
+  <text x="302" y="492" text-anchor="middle" font-size="9">Fleming boundary</text>
+  <text x="302" y="506" text-anchor="middle" font-size="9">Z_crit(177) = 3.710</text>
+  <text x="302" y="520" text-anchor="middle" font-size="9">Z_crit(353) = 2.511</text>
+
+  <line x1="220" y1="400" x2="220" y2="320" stroke="#2E75B6" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="480" y1="400" x2="480" y2="580" stroke="#999999" stroke-width="0" />
+
+  <!-- Legend / caption -->
+  <text x="700" y="585" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">
+    Fig. 1 (adapted). Orchestrated LLM pipeline for SAP/guideline-based statistical analysis conformance checking.
+  </text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2E75B6"/>
+    </marker>
+  </defs>
+</svg>

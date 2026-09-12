@@ -1,0 +1,995 @@
+arm,site,death,death_time,missing_30d,wrong_pack,tbi_severe
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,1,27.327485170390535,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,1,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,1,4.330241712916503,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,1,3.8042773868862376,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,1,23.308414207576753,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,1,6.736821290764549,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,1,3.5624480124578533,0,0,0
+placebo,Utah,0,30.0,1,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,1,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,1,26.207937799207,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,1,2.9259653416460254,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,1,20.405023392827548,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Arizona,1,25.922661676159148,0,0,0
+placebo,Utah,0,30.0,1,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+TXA,San Antonio,1,1.6913336100436667,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,1,19.3202508799002,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,1,7.156331359629915,0,0,0
+placebo,Utah,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,1,19.915169533617817,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,1,19.061760624039266,0,0,1
+TXA,Utah,1,5.1974543113785145,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,1,1.4248231490238128,0,1,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,1,2.0078940032666877,0,0,0
+placebo,Pittsburgh,1,2.1596545528992435,0,0,0
+placebo,Pittsburgh,1,22.39231555537681,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,1,13.29530602215112,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,1,27.601607779154012,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,1,1.8500907275255751,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,1,1,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,1,20.423135752554636,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,1,1.41535275535866,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,1,24.89495507298169,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,1,23.065821970695847,0,0,1
+placebo,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Arizona,1,26.813467408075876,0,1,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Arizona,1,10.142592555635828,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,1,24.65732729444505,1,0,1
+placebo,Pittsburgh,1,6.737468612866686,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,1,0,0
+TXA,San Antonio,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,1,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,1,20.179118910418463,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+placebo,Arizona,1,12.49184323664872,0,0,1
+placebo,Utah,1,16.313592212128874,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+placebo,Arizona,1,19.67927508238193,0,0,1
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,1,19.31074836136938,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,1,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,1,14.420810562098234,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,1,29.480043887867108,0,0,1
+TXA,Pittsburgh,1,24.913380379725155,0,0,1
+placebo,Pittsburgh,1,18.442326039935693,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,1,25.964422099230156,0,0,1
+placebo,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,San Antonio,1,28.511534260448663,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,1,16.06724664872256,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,1,4.632443860428488,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Utah,1,21.32355863227785,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,1,9.356981211503935,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,1,3.072698892160203,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,1,24.746464583232115,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+TXA,Arizona,1,8.192247960101,0,0,1
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,1,3.0794318645366556,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+placebo,Pittsburgh,1,28.490642913383596,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,1,23.878677248195995,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Utah,1,12.759173200610748,0,0,1
+TXA,Utah,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,San Antonio,1,27.666963462980732,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,San Antonio,1,1.4807034795010634,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,San Antonio,1,14.354508183655504,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,1,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,1,8.864305376211355,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,1,0,0
+placebo,Pittsburgh,1,24.78965311820647,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,1,9.039049180249826,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Utah,1,23.419945305826197,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Arizona,1,28.184092251595814,0,0,0
+placebo,Pittsburgh,1,18.701805206314766,0,0,0
+placebo,Utah,1,8.563397980371816,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Arizona,1,7.555882168877623,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,1,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,1,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Utah,1,27.18069452293641,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,1,0
+placebo,Pittsburgh,1,23.3430671326578,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,1,9.49899749918277,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,1,0
+placebo,Utah,0,30.0,0,1,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,1,15.336687174174587,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,1,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,1,24.011871038934192,0,0,0
+placebo,Arizona,1,22.939622339456022,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,1,29.517413316945802,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,San Antonio,1,9.643394388412753,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Arizona,1,20.50799871325425,1,0,0
+placebo,Arizona,1,6.235181076601583,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,1,9.03885872555235,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,1,13.429469376004468,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,1,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,Utah,1,29.564366179373188,0,0,1
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,1,19.78815554304011,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,San Antonio,1,29.144646867221176,0,0,0
+TXA,Pittsburgh,1,28.713483319759256,0,0,1
+TXA,Pittsburgh,1,19.53680140908837,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,1,24.901800826564333,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,1,10.814700639533863,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,1,20.21604219587462,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+TXA,Arizona,1,28.109205466252828,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,1,29.533641376115575,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,1,16.27515895612713,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,1,10.08812397398526,0,0,0
+placebo,Pittsburgh,1,26.4203664842552,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,1,27.029840267649263,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,1,21.405229091028968,0,0,1
+TXA,Arizona,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,1,6.5367190431183,0,0,0
+placebo,Pittsburgh,1,20.23651559602499,0,0,0
+TXA,Utah,1,24.055562703300996,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,1,0,0
+TXA,Arizona,1,7.183953641986575,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,San Antonio,1,21.43438787572518,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,1,18.275686439319713,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,1,13.447576757678549,0,0,0
+TXA,Utah,0,30.0,1,0,0
+placebo,Utah,1,8.780152918944168,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Arizona,1,15.905512049449946,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,1,1
+TXA,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,0
+TXA,San Antonio,1,10.968326020676432,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,1,22.929790609897797,0,0,1
+TXA,San Antonio,1,5.600426942334461,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Utah,1,7.209813483380722,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,1,4.689254700238756,0,0,1
+placebo,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,1,1.5092410142606605,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,1,9.18989506747318,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,1
+placebo,Pittsburgh,1,5.477456149033079,0,0,0
+TXA,Pittsburgh,1,19.617411965054146,0,0,0
+placebo,San Antonio,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,1,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,1,18.1540322054613,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,1,10.772034866934128,0,0,0
+placebo,Pittsburgh,1,15.96480619231436,0,0,0
+TXA,Pittsburgh,0,30.0,0,1,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,1,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,1,7.436787480146007,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,1,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,San Antonio,1,26.08202151304985,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,San Antonio,1,17.52352065606891,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,1,0,0
+placebo,Pittsburgh,1,11.768547609991659,0,0,1
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,San Antonio,1,25.569749262158968,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,1,11.552357810034428,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,1,23.730168575596608,0,0,0
+placebo,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,1,0
+placebo,San Antonio,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Arizona,1,10.658058907858223,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Arizona,1,1.1187389680541935,0,0,1
+placebo,San Antonio,0,30.0,1,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,1,6.5822063804111615,0,0,1
+placebo,Pittsburgh,1,14.946179377278112,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,1,1.374007601847183,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,1,0,0
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Arizona,1,6.36735898457096,0,0,1
+placebo,Arizona,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Arizona,1,27.008818258640016,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+placebo,Arizona,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,1,24.41051645653365,0,0,1
+TXA,Arizona,1,10.7227990489798,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,Utah,1,27.721786599485235,0,0,0
+TXA,Pittsburgh,1,18.463576316693256,0,0,1
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Arizona,1,19.636657940854086,0,0,1
+TXA,Utah,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,Pittsburgh,1,19.734430559166718,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+TXA,Utah,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,0,30.0,0,0,0
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,0
+TXA,Arizona,1,21.252594611757832,0,0,1
+TXA,Utah,0,30.0,0,0,0
+TXA,San Antonio,1,16.666030593324884,0,0,0
+placebo,Arizona,0,30.0,0,0,0
+TXA,Utah,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+placebo,San Antonio,1,4.987121972842038,0,0,0
+placebo,Utah,0,30.0,0,0,1
+TXA,Pittsburgh,0,30.0,0,1,0
+TXA,Utah,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,Pittsburgh,1,1.0911132299055506,0,0,0
+placebo,San Antonio,0,30.0,0,0,0
+TXA,Pittsburgh,0,30.0,0,0,0
+placebo,Utah,1,27.44173507602899,0,0,1
+placebo,San Antonio,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,1
+placebo,San Antonio,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,San Antonio,1,8.618262961149746,0,0,0
+TXA,Utah,0,30.0,0,0,0
+placebo,Arizona,0,30.0,0,0,1
+placebo,Utah,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,1
+placebo,Pittsburgh,0,30.0,0,0,0
+TXA,San Antonio,0,30.0,0,0,0
