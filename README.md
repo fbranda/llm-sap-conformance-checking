@@ -107,29 +107,7 @@ generated code was actually run against data rather than just reviewed as text:
    stratified-table array passed to `statsmodels` (STAAMP); both fixed directly in
    `shine/run_pipeline.py` and `staamp/run_pipeline.py`, with the fix documented inline.
 
-## Disclosure on AI-assisted execution
 
-Stages 1–5 of this pipeline were, in this pilot, executed by a single LLM (Claude, Anthropic)
-acting in sequential, role-specific prompts, rather than by the multi-vendor LLM configuration
-(Gemini 2.5 Flash / NotebookLM / Gemini 3 Pro-Preview) used in the original process-conformance
-architecture this work adapts. This is discussed as a methodological point in Section 4.7 of
-the manuscript. Stage 6 is fully deterministic Python code (no LLM involved).
-
-## Citation
-
-If you use this code, please cite the manuscript (details to be added upon publication) and
-the original architecture:
-
-```bibtex
-@article{leonardi2026orchestrating,
-  title={Orchestrating large language models to support medical process conformance checking},
-  author={Leonardi, Giorgio and Montani, Stefania and Striani, Manuel and Canessa, Alessandro and Ferrandi, Delfina},
-  journal={Neuroscience Informatics},
-  volume={6},
-  pages={100294},
-  year={2026},
-  publisher={Elsevier}
-}
 ```
 
 ## License
