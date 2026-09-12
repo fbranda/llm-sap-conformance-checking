@@ -1,16 +1,5 @@
 # LLM-Orchestrated Statistical Analysis Conformance Checking
 
-Code and results accompanying the manuscript:
-
-> **Orchestrating Large Language Models to Support Medical Statistical Analysis Conformance Checking**
-> [Author names], Unità di Statistica Medica ed Epidemiologia Molecolare, Università Campus Bio-Medico di Roma
-> Submitted to the *Journal of Biomedical Informatics*
-
-This repository adapts the orchestrated LLM conformance-checking architecture of
-Leonardi et al. (2026), *"Orchestrating large language models to support medical
-process conformance checking,"* *Neuroscience Informatics* 6:100294, from clinical
-**process** conformance to statistical **analysis-plan (SAP)** conformance.
-
 ## What this pipeline does
 
 Given a clinical trial's public Statistical Analysis Plan (SAP) and a dataset:
