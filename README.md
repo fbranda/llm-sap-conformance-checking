@@ -108,8 +108,6 @@ generated code was actually run against data rather than just reviewed as text:
    `shine/run_pipeline.py` and `staamp/run_pipeline.py`, with the fix documented inline.
 
 
-```
-
 ## License
 
 MIT License — see `LICENSE`.
